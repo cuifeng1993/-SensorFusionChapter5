@@ -1,0 +1,252 @@
+Importing IMU data from the Matlab matrix file : test_data/xsens_acc.mat
+Importing IMU data from the Matlab matrix file : test_data/xsens_gyro.mat
+Accelerometer Calibration: Calibrating...
+Accelerometers Calibration: Extracted 42 intervals using threshold multiplier 2 -> Trying calibrate... 
+******
+residuals[0]:-1.38906e+07
+******
+******
+sample_:33112
+33332
+36436
+******
+******
+calib_samp: 344
+ 564
+3668
+******
+******
+calib_triad:Misalignment Matrix
+ 1 -0  0
+ 0  1 -0
+-0  0  1
+Scale Matrix
+1 0 0
+0 1 0
+0 0 1
+Bias Vector
+32768
+32768
+32768
+
+******
+******
+J:-3.73503e+07   2.4291e+08 -2.44524e+08 -2.27811e+07 -3.75985e+07 -2.67294e+08          688         1128         7336
+******
+******
+residuals[0]:-1.38991e+07
+******
+******
+sample_:33102
+33326
+36439
+******
+******
+calib_samp: 334
+ 558
+3671
+******
+******
+calib_triad:Misalignment Matrix
+ 1 -0  0
+ 0  1 -0
+-0  0  1
+Scale Matrix
+1 0 0
+0 1 0
+0 0 1
+Bias Vector
+32768
+32768
+32768
+
+******
+******
+J:-3.69418e+07  2.43035e+08 -2.44679e+08 -2.21121e+07 -3.71918e+07 -2.67535e+08          668         1116         7342
+******
+******
+residuals[0]:-1.38462e+07
+******
+******
+sample_:33104
+33330
+36431
+******
+******
+calib_samp: 336
+ 562
+3663
+******
+******
+calib_triad:Misalignment Matrix
+ 1 -0  0
+ 0  1 -0
+-0  0  1
+Scale Matrix
+1 0 0
+0 1 0
+0 0 1
+Bias Vector
+32768
+32768
+32768
+
+******
+******
+J:-3.72089e+07   2.4252e+08 -2.44176e+08 -2.22459e+07 -3.74629e+07 -2.66894e+08          672         1124         7326
+******
+******
+residuals[0]:-1.38566e+07
+******
+******
+sample_:33101
+33328
+36433
+******
+******
+calib_samp: 333
+ 560
+3665
+******
+******
+calib_triad:Misalignment Matrix
+ 1 -0  0
+ 0  1 -0
+-0  0  1
+Scale Matrix
+1 0 0
+0 1 0
+0 0 1
+Bias Vector
+32768
+32768
+32768
+
+******
+******
+J:-3.70731e+07   2.4263e+08 -2.44294e+08 -2.20453e+07 -3.73274e+07 -2.67054e+08          666         1120         7330
+******
+******
+residuals[0]:-1.38485e+07
+******
+******
+sample_:33104
+33332
+36431
+******
+******
+calib_samp: 336
+ 564
+3663
+******
+******
+calib_triad:Misalignment Matrix
+ 1 -0  0
+ 0  1 -0
+-0  0  1
+Scale Matrix
+1 0 0
+0 1 0
+0 0 1
+Bias Vector
+32768
+32768
+32768
+
+******
+******
+J:-3.73413e+07   2.4252e+08  -2.4419e+08 -2.22459e+07 -3.75985e+07 -2.66894e+08          672         1128         7326
+******
+******
+residuals[0]:-1.38541e+07
+******
+******
+sample_:33098
+33334
+36432
+******
+******
+calib_samp: 330
+ 566
+3664
+******
+******
+calib_triad:Misalignment Matrix
+ 1 -0  0
+ 0  1 -0
+-0  0  1
+Scale Matrix
+1 0 0
+0 1 0
+0 0 1
+Bias Vector
+32768
+32768
+32768
+
+******
+******
+J:-3.74669e+07  2.42542e+08 -2.44272e+08 -2.18447e+07 -3.77341e+07 -2.66974e+08          660         1132         7328
+******
+******
+residuals[0]:-1.38015e+07
+******
+******
+sample_:33096
+33334
+36425
+******
+******
+calib_samp: 328
+ 566
+3657
+******
+******
+calib_triad:Misalignment Matrix
+ 1 -0  0
+ 0  1 -0
+-0  0  1
+Scale Matrix
+1 0 0
+0 1 0
+0 0 1
+Bias Vector
+32768
+32768
+32768
+
+******
+******
+J:-3.74647e+07  2.42064e+08 -2.43805e+08  -2.1711e+07 -3.77341e+07 -2.66412e+08          656         1132         7314
+******
+******
+residuals[0]:-1.38445e+07
+******
+******
+sample_:33098
+33332
+36431
+******
+******
+calib_samp: 330
+ 564
+3663
+******
+******
+calib_triad:Misalignment Matrix
+ 1 -0  0
+ 0  1 -0
+-0  0  1
+Scale Matrix
+1 0 0
+0 1 0
+0 0 1
+Bias Vector
+32768
+32768
+32768
+
+******
+******
+J:-3.73345e+07  2.42476e+08  -2.4419e+08 -2.18447e+07 -3.75985e+07 -2.66894e+08          660         1128         7326
+******
